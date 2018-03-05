@@ -22,6 +22,5 @@
   "bugs": {
     "url": "https://github.com/pycontw/reviewer-guidebook.git/issues"
   },
-  "homepage": "https://github.com/pycontw/reviewer-guidebook.git",
-  "dependencies": {}
+  "homepage": "https://github.com/pycontw/reviewer-guidebook.git"
 }

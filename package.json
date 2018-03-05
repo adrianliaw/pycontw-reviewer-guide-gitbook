@@ -5,12 +5,8 @@
   "private": true,
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-discourse": "0.0.6",
     "gitbook-plugin-json": "1.0.1",
-    "gitbook-plugin-lexicon": "0.0.15",
-    "gitbook-plugin-mathjax": "0.0.6",
-    "google-spreadsheet-download": "*",
-    "gulp": "^3.8.10",
+    "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4"
   },
   "scripts": {
@@ -21,11 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chairco/pycontw-reviewer-guide-gitbook.git"
+    "url": "https://github.com/pycontw/reviewer-guidebook.git"
   },
   "bugs": {
-    "url": "https://github.com/chairco/pycontw-reviewer-guide-gitbook.git/issues"
+    "url": "https://github.com/pycontw/reviewer-guidebook.git/issues"
   },
-  "homepage": "https://github.com/chairco/pycontw-reviewer-guide-gitbook.git",
+  "homepage": "https://github.com/pycontw/reviewer-guidebook.git",
   "dependencies": {}
 }
